@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>http://franciscoiriarte.com.ar/wp-content/uploads/2022/03/favicon.png</url>
+	<title>franciscoiriarteiborra &#8211; Francisco Iriarte</title>
+	<link>http://franciscoiriarte.com.ar</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>¡Hola mundo!</title>
 		<link>http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/</link>
