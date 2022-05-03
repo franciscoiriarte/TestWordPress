@@ -8,53 +8,33 @@
 	>
 
 <channel>
-	<title>Sin categoría &#8211; Test WordPress</title>
-	<atom:link href="/https://franciscoiriarte.github.io/TestWordPress/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://franciscoiriarte.github.io/TestWordPress</link>
-	<description>Otro sitio realizado con WordPress</description>
-	<lastBuildDate>Thu, 28 Oct 2021 17:16:55 +0000</lastBuildDate>
+	<title>Sin categoría &#8211; Francisco Iriarte</title>
+	<atom:link href="http://franciscoiriarte.com.ar/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>http://franciscoiriarte.com.ar</link>
+	<description>Portfolio web</description>
+	<lastBuildDate>Sat, 16 Oct 2021 13:56:26 +0000</lastBuildDate>
 	<language>es-AR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>¡Hola mundo!</title>
-		<link>/https://franciscoiriarte.github.io/TestWordPress/2021/10/28/hola-mundo/</link>
-					<comments>/https://franciscoiriarte.github.io/TestWordPress/2021/10/28/hola-mundo/#comments</comments>
+		<link>http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/</link>
+					<comments>http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/#comments</comments>
 		
-		<dc:creator><![CDATA[test]]></dc:creator>
-		<pubDate>Thu, 28 Oct 2021 17:16:55 +0000</pubDate>
-				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">/https://franciscoiriarte.github.io/TestWordPress/?p=1</guid>
-
-					<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!]]></description>
-										<content:encoded><![CDATA[
-<p>Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/https://franciscoiriarte.github.io/TestWordPress/2021/10/28/hola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>¡Hola mundo!</title>
-		<link>/https://franciscoiriarte.github.io/TestWordPress/2021/10/16/hola-mundo-2/</link>
-					<comments>/https://franciscoiriarte.github.io/TestWordPress/2021/10/16/hola-mundo-2/#comments</comments>
-		
-		<dc:creator><![CDATA[test]]></dc:creator>
+		<dc:creator><![CDATA[franciscoiriarteiborra]]></dc:creator>
 		<pubDate>Sat, 16 Oct 2021 13:56:26 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
+		<guid isPermaLink="false">http://franciscoiriarte.com.ar/?p=1</guid>
 
 					<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://franciscoiriarte.github.io/TestWordPress/2021/10/16/hola-mundo-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

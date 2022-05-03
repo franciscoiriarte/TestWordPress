@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentarios para Francisco Iriarte	</title>
-	<atom:link href="http://franciscoiriarte.com.ar/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://franciscoiriarte.com.ar</link>
+	Comentarios en: ¡Hola mundo!	</title>
+	<atom:link href="http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/</link>
 	<description>Portfolio web</description>
 	<lastBuildDate>Sat, 16 Oct 2021 13:56:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>
-		Comentario en ¡Hola mundo! por Un comentarista de WordPress		</title>
+		Por: Un comentarista de WordPress		</title>
 		<link>http://franciscoiriarte.com.ar/2021/10/16/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>

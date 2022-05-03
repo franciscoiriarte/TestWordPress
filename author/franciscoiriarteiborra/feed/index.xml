@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Francisco Iriarte</title>
-	<atom:link href="http://franciscoiriarte.com.ar/feed/" rel="self" type="application/rss+xml" />
+	<title>franciscoiriarteiborra &#8211; Francisco Iriarte</title>
+	<atom:link href="http://franciscoiriarte.com.ar/author/franciscoiriarteiborra/feed/" rel="self" type="application/rss+xml" />
 	<link>http://franciscoiriarte.com.ar</link>
 	<description>Portfolio web</description>
 	<lastBuildDate>Sat, 16 Oct 2021 13:56:26 +0000</lastBuildDate>
